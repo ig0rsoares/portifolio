@@ -1,0 +1,38 @@
+Display
+- responsavel por manusear o comportamento dos elementos na tela.
+
+Inline 
+- tag a são por padrao display inline
+- elementos um ao lado do outro, na mesma linha, o maximo a esquerda possivel
+- nao funciona width e height
+- comportamento das tags como se fossem palavras
+- tamanho da caixa da tag é definido pelo conteudo
+
+Block 
+
+- tag nav é por padrao display block
+- nao tem comportamento de palavra
+- cada tag ocupa toda a linha
+- permite usar width e height
+- por padrao width 100% da tag pai 
+- height do tamanho do conteudo.
+
+Inline Block
+
+- elementos na mesma linha
+- permite usar width e height
+- elementos tem comportamento de palavra
+- tamanho definido pelo conteudo, quando nao setado width e height
+- text-align-last: justify" - justifica a linha unica ou ultima linha
+
+Flex
+
+- align-items: center; -  para alinhar elementos na vertical
+- justify-content: space-between; - para alinhar elementos na horizontal
+
+
+Padding
+
+ - padding - 20px 18px - 20 top e bottom | 18 - right e left
+ - padding - 20px 18px 30 px - 20 top | 18 - right e left | 30 - bottom
+
