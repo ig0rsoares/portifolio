@@ -1,0 +1,13 @@
+.section{
+    box-sizing: border-box;
+    background-color: #7C5E99;
+    height: 730px;
+    border-bottom: 10px solid #000;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.section .main-title {
+    margin-bottom: 60px;
+
+}
